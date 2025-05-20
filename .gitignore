@@ -34,3 +34,5 @@ build/
 
 # Archivos personales
 *.env
+*.iml
+.idea/

@@ -105,4 +105,4 @@ Winner: Wizard
 
 ---
 
-Hasta la próxima!
+Asta la próxima!
