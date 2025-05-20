@@ -1,0 +1,36 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos compilados
+*.class
+*.log
+
+# Directorios de compilación
+target/
+bin/
+build/
+
+# Maven
+.mvn/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+# Gradle
+.gradle/
+build/
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Archivos personales
+*.env
